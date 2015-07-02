@@ -1,0 +1,8 @@
+﻿SELECT
+  NOMERFAKT AS "Номер на фактура",
+  TO_CHAR(DATAFAKT, 'DD.MM.YYYY') AS "Дата на издаване",
+  TO_CHAR(ADD_MONTHS(DATAFAKT, 3), 'DD.MM.YYYY') AS "СРОК ЗА ПЛАЩАНЕ"
+FROM
+  STUDENT_IS.DOCUMENT_GL
+WHERE
+  NOMERFAKT IS NOT NULL

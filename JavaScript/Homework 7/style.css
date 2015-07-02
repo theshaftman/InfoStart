@@ -1,0 +1,82 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+}
+
+select {
+    left: 525px;
+    top: 60px;
+    width: 280px;
+    position: relative;
+}
+
+#message {
+    position: relative;
+    top: 430px;
+    width: 430px;
+}
+
+#roomName, #newRoom {
+    position: relative;
+    top: 50px;
+    left: 18px;
+}
+
+#removeName, #removeRoom {
+    position: relative;
+    top: 60px;
+    left: 523px;
+}
+
+#sendMessage {
+    position: relative;
+    top: 430px;
+    width: 68px;
+}
+
+#chat {
+    margin: 30px;
+    padding: 20px;
+    width: 815px;
+    height: 500px;
+    border: 1px solid black;
+    background-color: #D8D8D8;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px;
+    position: absolute;
+}
+
+#messageDiv {
+    width: 500px;
+    height: 400px;
+    top: 80px;
+    border: 1px solid black;
+    background-color: #F0F0F0;
+    position: absolute;
+    overflow: auto;
+}
+
+#p {
+    position: absolute;
+    left: 590px;
+    top: 155px;
+    color: red;
+}
+
+#b {
+    position: absolute;
+    left: 640px;
+    top: 155px;
+}
+
+#author {
+    color: blue;
+    font-size: larger;
+    display: block;
+}
+
+#date {
+    color: green;
+    float: right;
+    display: inline-block;
+}

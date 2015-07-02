@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://java.sun.com/jsf/facelets"
+      xmlns:f="http://java.sun.com/jsf/core"
+      xmlns:h="http://java.sun.com/jsf/html"> 
+
+<h:head>
+	<title>mariyan_apostolov@abv.bg</title>
+	<h:outputStylesheet library="css" name="style.css" />
+</h:head> 
+<body>
+	<div id="bodyStyle">
+		<h:outputText value="Loged in successfully " styleClass="title" />
+		<h:outputText style="color: red;" value="#{loggedUser.username}" styleClass="title"/>
+		<br /><br />
+		<h:outputText value="My information:" styleClass="moreInfo" /><br />
+		<h:outputText value="Name: #{loggedUser.name}" /><br />
+		<h:outputText value="Age: #{loggedUser.age}" /><br />
+		<h:outputText value="Phone: #{loggedUser.phone}" /><br />
+		<h:outputText value="Address: #{loggedUser.address}" /><br />
+		<h:outputText value="Email: #{loggedUser.email}" /><br /><br />
+		
+		<h:form>
+			<h:commandButton action="#{loginBean.logout()}" value="Log Out" styleClass="buttonClass" />
+		</h:form><br />
+		
+		<h:outputText value="Other users:" styleClass="moreInfo" />
+		<hr/>
+		
+		<div class="tableScale">
+			<h:dataTable var="u" value="#{listUsersBean.users}" 
+					styleClass="table"
+	         		headerClass="tableHeader"
+	         		rowClasses="tableOddRow, tableEvenRow">
+				<h:column>
+					<f:facet name="header">ID</f:facet>
+					<h:outputText value="#{u.id}" />
+				</h:column>
+			
+				<h:column>
+					<f:facet name="header">USERNAME</f:facet>
+					<h:outputText value="#{u.username}" />
+				</h:column>
+			
+				<h:column>
+					<f:facet name="header">PASSWORD</f:facet>
+					<h:outputText value="#{u.password}" />
+				</h:column>
+			
+				<h:column>
+					<f:facet name="header">EMAIL</f:facet>
+				    <h:outputText value="#{u.email}" />
+				</h:column>
+				
+				<h:column>
+					<f:facet name="header">NAME</f:facet>
+					<h:outputText value="#{u.name}" />
+				</h:column>
+					
+				<h:column>
+					<f:facet name="header">AGE</f:facet>
+					<h:outputText value="#{u.age}" />
+				</h:column>
+				
+				<h:column>
+					<f:facet name="header">PHONE</f:facet>
+					<h:outputText value="#{u.phone}" />
+				</h:column>
+					
+				<h:column>
+					<f:facet name="header">ADDRESS</f:facet>
+					<h:outputText value="#{u.address}" />
+				</h:column>
+			</h:dataTable>
+		</div>
+	</div>
+</body> 
+</html>

@@ -1,0 +1,6 @@
+C:\Users\Web\Desktop\4.Homework\9.MostFrequent\bin\Debug\9.MostFrequent.exe.config
+C:\Users\Web\Desktop\4.Homework\9.MostFrequent\bin\Debug\9.MostFrequent.exe
+C:\Users\Web\Desktop\4.Homework\9.MostFrequent\bin\Debug\9.MostFrequent.pdb
+C:\Users\Web\Desktop\4.Homework\9.MostFrequent\obj\Debug\9.MostFrequent.csprojResolveAssemblyReference.cache
+C:\Users\Web\Desktop\4.Homework\9.MostFrequent\obj\Debug\9.MostFrequent.exe
+C:\Users\Web\Desktop\4.Homework\9.MostFrequent\obj\Debug\9.MostFrequent.pdb

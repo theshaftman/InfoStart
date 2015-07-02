@@ -1,0 +1,6 @@
+C:\Users\Web\Desktop\4.Homework\10.SequenceGivenSum\bin\Debug\10.SequenceGivenSum.exe.config
+C:\Users\Web\Desktop\4.Homework\10.SequenceGivenSum\bin\Debug\10.SequenceGivenSum.exe
+C:\Users\Web\Desktop\4.Homework\10.SequenceGivenSum\bin\Debug\10.SequenceGivenSum.pdb
+C:\Users\Web\Desktop\4.Homework\10.SequenceGivenSum\obj\Debug\10.SequenceGivenSum.exe
+C:\Users\Web\Desktop\4.Homework\10.SequenceGivenSum\obj\Debug\10.SequenceGivenSum.pdb
+C:\Users\Web\Desktop\4.Homework\10.SequenceGivenSum\obj\Debug\10.SequenceGivenSum.csprojResolveAssemblyReference.cache

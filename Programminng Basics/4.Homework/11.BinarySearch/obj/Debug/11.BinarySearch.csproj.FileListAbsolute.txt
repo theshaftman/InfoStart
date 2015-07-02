@@ -1,0 +1,6 @@
+C:\Users\Web\Desktop\4.Homework\11.BinarySearch\bin\Debug\11.BinarySearch.exe.config
+C:\Users\Web\Desktop\4.Homework\11.BinarySearch\bin\Debug\11.BinarySearch.exe
+C:\Users\Web\Desktop\4.Homework\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
+C:\Users\Web\Desktop\4.Homework\11.BinarySearch\obj\Debug\11.BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Web\Desktop\4.Homework\11.BinarySearch\obj\Debug\11.BinarySearch.exe
+C:\Users\Web\Desktop\4.Homework\11.BinarySearch\obj\Debug\11.BinarySearch.pdb

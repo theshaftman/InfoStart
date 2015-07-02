@@ -1,0 +1,121 @@
+#diagram {
+	height: 200px;
+	width: 600px;
+	margin-left: 40px;
+	margin-top: 40px;
+	position: relative;
+	border: 1px solid black;
+}
+
+#diagram .month {
+	position: absolute;
+	bottom: 0;
+	width: 30px;
+	height: 0%;
+	box-shadow: 10px 6px 10px black;
+	-webkit-transition: height 2s;
+  	-moz-transition: height 2s;
+  	-o-transition: height 2s;
+	transition: height 2s;
+}
+
+.jan { left: 10px; background: red; }       
+.feb { left: 60px; background: blue; }
+.mar { left: 110px; background: green; }
+.apr { left: 160px; background: yellow; }
+.may { left: 210px; background: black; }
+.jun { left: 260px; background: magenta; }
+.jul { left: 310px; background: orange; }
+.aug { left: 360px; background: navy; }
+.sep { left: 410px; background: purple; }
+.oct { left: 460px; background: olive; }
+.nov { left: 510px; background: cyan; }
+.dec { left: 560px; background: lime; }
+
+#diagram nav {
+	position: absolute;
+	left: 37px;
+	top: 250px;
+	width: 104px;
+}
+
+#diagram nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+#diagram nav ul li {
+	margin: 1px 1px 0;
+	padding: 2px;
+	line-height: 17px;
+	position: relative;
+	list-style-type: none;
+	border: 1px solid black;
+	border-radius: 7px 0 0 7px;
+	text-align: center;
+}
+
+#diagram nav ul li a {
+	padding: 2px 10px;
+	color: black;
+	display: block;
+	text-decoration: none;
+}
+
+#diagram nav ul li a:last-child {
+	position: absolute;
+	height: 21px;
+	left: 102px;
+	top: -1px;
+	border: 1px solid black;
+	background: #ccc;
+	border-radius: 0 10px 10px 0;
+}
+
+#diagram nav ul li a:hover {
+	color: white;
+	background: gray;
+}
+
+.show {
+	margin: 251px 0 0 200px;
+	height: 201px;
+	width: 251px;
+	border: 1px solid black;
+	box-shadow: 6px 5px 10px black;
+	overflow: hidden;
+	position: relative;
+}
+
+.show img {
+	position: absolute;
+	height: 200px;
+	width: 250px;
+	left: 0;
+	top: 0;
+	-webkit-transition: 2s;
+  	-moz-transition: 2s;
+  	-o-transition: 2s;
+	transition: 2s;
+}
+
+.show img:target {
+	left: 0;
+	z-index: 10;
+}
+.show img:not(:target) {
+	left: -220px;
+	z-index: 9;
+}
+
+h2 {
+	position: absolute;
+	top: 200px;
+	left: 95px; 
+}
+
+#diagram span.m {
+	background: transparent;
+	width: 100%;
+	height: 200px;
+}

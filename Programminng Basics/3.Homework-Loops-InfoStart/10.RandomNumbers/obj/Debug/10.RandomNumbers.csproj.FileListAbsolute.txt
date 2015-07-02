@@ -1,0 +1,5 @@
+D:\InfoStart\Homework\Infostart - Programming Basics\3.Homework-Loops-InfoStart\10.RandomNumbers\bin\Debug\10.RandomNumbers.exe.config
+D:\InfoStart\Homework\Infostart - Programming Basics\3.Homework-Loops-InfoStart\10.RandomNumbers\bin\Debug\10.RandomNumbers.exe
+D:\InfoStart\Homework\Infostart - Programming Basics\3.Homework-Loops-InfoStart\10.RandomNumbers\bin\Debug\10.RandomNumbers.pdb
+D:\InfoStart\Homework\Infostart - Programming Basics\3.Homework-Loops-InfoStart\10.RandomNumbers\obj\Debug\10.RandomNumbers.exe
+D:\InfoStart\Homework\Infostart - Programming Basics\3.Homework-Loops-InfoStart\10.RandomNumbers\obj\Debug\10.RandomNumbers.pdb

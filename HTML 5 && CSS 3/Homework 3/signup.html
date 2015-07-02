@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<title>Homework 5</title>
+</head>
+
+<body>
+	<form name="signup" action="#" method="POST">
+		<fieldset>
+			<legend><strong>Регистрация</strong></legend>
+				<fieldset>
+					<legend><em>Лична информация</em></legend>
+						<label>Потребителско име: </label>
+							<input type="text" name="username" required="required" /> <br />
+						<label>Парола: </label>
+							<input type="password" name="password" required="required" /> <br />
+						<label>Повторете паролата: </label>
+							<input type="password" name="password" required="required" />
+				</fieldset>
+				<fieldset>
+					<legend><em>Допълнителна лична информация</em></legend>
+						<label>E-mail адрес: </label>
+								<input type="email" name="email" required="required" /> <br />
+							<label>Повторете E-mail адреса: </label>
+								<input type="email" name="email" required="required" /> <br />
+							<label>Пол: </label>
+								<input type="radio" name="gender" value="male" required="required" />Мъж
+								<input type="radio" name="gender" value="female" required="required" />Жена <br />
+							<label>Местоположение: </label>
+								<select required="required">
+									<option disabled="disabled" value="">---</option>
+									<optgroup label="Област София">
+										<option value="Sofia">София</option>
+									</optgroup>
+									<optgroup label="Област Варна">
+										<option value="Varna">Варна</option>
+										<option value="Provadia">Провадия</option>
+										<option value="Devnia">Девня</option>
+									</optgroup>
+									<optgroup label="Област Пловдив">
+										<option value="Plovdiv">Пловдив</option>
+										<option value="Asenovgrad">Асеновград</option>
+										<option value="Karlovo">Карлово</option>
+										<option value="Saedinenie">Съединение</option>
+									</optgroup>
+									<optgroup label="Област Търговище">
+										<option value="Targovishte">Търговище</option>
+										<option value="Popovo">Попово</option>
+										<option value="Omurtag">Омуртаг</option>
+									</optgroup>
+								</select> <br />
+							<label>Избиране на аватар: </label>
+								<input type="file" name="img" required="required" />
+				</fieldset>
+				<label>Потвърждавам, че приемам условията и задълженията</label>
+					<input type="checkbox" name="agreeWithTerms" value="Y" required="required" /> <br />
+				<input type="submit" value="Регистрирай" />
+				<input type="reset" value="Изчисти" />
+		</fieldset>
+	</form>
+</body>
+</html>

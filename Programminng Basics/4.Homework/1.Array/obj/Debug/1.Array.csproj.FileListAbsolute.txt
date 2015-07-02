@@ -1,0 +1,6 @@
+C:\Users\Web\Desktop\4.Homework\1.Array\bin\Debug\1.Array.exe.config
+C:\Users\Web\Desktop\4.Homework\1.Array\bin\Debug\1.Array.exe
+C:\Users\Web\Desktop\4.Homework\1.Array\bin\Debug\1.Array.pdb
+C:\Users\Web\Desktop\4.Homework\1.Array\obj\Debug\1.Array.csprojResolveAssemblyReference.cache
+C:\Users\Web\Desktop\4.Homework\1.Array\obj\Debug\1.Array.exe
+C:\Users\Web\Desktop\4.Homework\1.Array\obj\Debug\1.Array.pdb

@@ -1,0 +1,5 @@
+C:\Users\Web\Desktop\4.Homework\12.LettersAlphabet\bin\Debug\12.LettersAlphabet.exe.config
+C:\Users\Web\Desktop\4.Homework\12.LettersAlphabet\bin\Debug\12.LettersAlphabet.exe
+C:\Users\Web\Desktop\4.Homework\12.LettersAlphabet\bin\Debug\12.LettersAlphabet.pdb
+C:\Users\Web\Desktop\4.Homework\12.LettersAlphabet\obj\Debug\12.LettersAlphabet.exe
+C:\Users\Web\Desktop\4.Homework\12.LettersAlphabet\obj\Debug\12.LettersAlphabet.pdb

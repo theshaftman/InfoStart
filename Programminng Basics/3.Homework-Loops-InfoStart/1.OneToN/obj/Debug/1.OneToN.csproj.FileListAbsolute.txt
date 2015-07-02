@@ -1,0 +1,2 @@
+D:\InfoStart\Homework\Infostart - Programming Basics\3.Homework-Loops-InfoStart\1.OneToN\bin\Debug\1.OneToN.exe.config
+D:\InfoStart\1. Programming Basics\Homework\3.Homework-Loops-InfoStart\1.OneToN\bin\Debug\1.OneToN.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Web\Desktop\4.Homework\5.SequenceMaximalSum\bin\Debug\5.SequenceMaximalSum.exe.config
+C:\Users\Web\Desktop\4.Homework\5.SequenceMaximalSum\bin\Debug\5.SequenceMaximalSum.exe
+C:\Users\Web\Desktop\4.Homework\5.SequenceMaximalSum\bin\Debug\5.SequenceMaximalSum.pdb
+C:\Users\Web\Desktop\4.Homework\5.SequenceMaximalSum\obj\Debug\5.IncreasingSequence.csprojResolveAssemblyReference.cache
+C:\Users\Web\Desktop\4.Homework\5.SequenceMaximalSum\obj\Debug\5.SequenceMaximalSum.exe
+C:\Users\Web\Desktop\4.Homework\5.SequenceMaximalSum\obj\Debug\5.SequenceMaximalSum.pdb

@@ -1,0 +1,8 @@
+﻿SELECT
+  SUM(dg.OBSHTO) AS SUMA
+FROM 
+  STUDENT_IS.DOCUMENT_GL dg
+WHERE
+  dg.DATAFAKT >= TO_DATE('01.12.2013', 'dd.mm.yyyy') AND
+  dg.DATAFAKT <= TO_DATE('31.12.2013', 'dd.mm.yyyy') AND
+  dg.TIP_DOC_ID = 2

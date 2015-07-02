@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.HelloWorld", "1.HelloWorld\1.HelloWorld.csproj", "{B93584F7-EE27-4452-9C93-2B7DF709D2A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.FahrenheitToCelsius", "2.FahrenheitToCelsius\2.FahrenheitToCelsius.csproj", "{808FFF69-F51B-4CA7-B256-750091630E95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B93584F7-EE27-4452-9C93-2B7DF709D2A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93584F7-EE27-4452-9C93-2B7DF709D2A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93584F7-EE27-4452-9C93-2B7DF709D2A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93584F7-EE27-4452-9C93-2B7DF709D2A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808FFF69-F51B-4CA7-B256-750091630E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808FFF69-F51B-4CA7-B256-750091630E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808FFF69-F51B-4CA7-B256-750091630E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808FFF69-F51B-4CA7-B256-750091630E95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

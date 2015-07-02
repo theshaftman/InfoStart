@@ -1,0 +1,2 @@
+D:\InfoStart\Homework\Infostart - Programming Basics\3.Homework-Loops-InfoStart\5.HexadecimalToDecimal\bin\Debug\5.HexadecimalToDecimal.exe.config
+D:\InfoStart\1. Programming Basics\Homework\3.Homework-Loops-InfoStart\5.HexadecimalToDecimal\bin\Debug\5.HexadecimalToDecimal.exe.config

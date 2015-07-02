@@ -1,0 +1,8 @@
+C:\Users\Web\Desktop\Tuiiiiiiii\1.Homework-InfoStart\1.HelloWorld\bin\Debug\1.HelloWorld.exe.config
+C:\Users\Web\Desktop\Tuiiiiiiii\1.Homework-InfoStart\1.HelloWorld\bin\Debug\1.HelloWorld.exe
+C:\Users\Web\Desktop\Tuiiiiiiii\1.Homework-InfoStart\1.HelloWorld\bin\Debug\1.HelloWorld.pdb
+C:\Users\Web\Desktop\Tuiiiiiiii\1.Homework-InfoStart\1.HelloWorld\obj\Debug\1.HelloWorld.exe
+C:\Users\Web\Desktop\Tuiiiiiiii\1.Homework-InfoStart\1.HelloWorld\obj\Debug\1.HelloWorld.pdb
+D:\InfoStart\Homework\Infostart - Programming Basics\1.Homework-InfoStart\1.HelloWorld\bin\Debug\1.HelloWorld.exe.config
+D:\InfoStart\Homework\Infostart - Programming Basics\1.Homework-InfoStart\1.HelloWorld\obj\Debug\1.HelloWorld.exe
+D:\InfoStart\Homework\Infostart - Programming Basics\1.Homework-InfoStart\1.HelloWorld\obj\Debug\1.HelloWorld.pdb

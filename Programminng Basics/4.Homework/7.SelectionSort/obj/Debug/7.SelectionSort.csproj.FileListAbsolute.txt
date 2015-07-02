@@ -1,0 +1,6 @@
+C:\Users\Web\Desktop\4.Homework\7.SelectionSort\bin\Debug\7.SelectionSort.exe.config
+C:\Users\Web\Desktop\4.Homework\7.SelectionSort\bin\Debug\7.SelectionSort.exe
+C:\Users\Web\Desktop\4.Homework\7.SelectionSort\bin\Debug\7.SelectionSort.pdb
+C:\Users\Web\Desktop\4.Homework\7.SelectionSort\obj\Debug\7.SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Web\Desktop\4.Homework\7.SelectionSort\obj\Debug\7.SelectionSort.exe
+C:\Users\Web\Desktop\4.Homework\7.SelectionSort\obj\Debug\7.SelectionSort.pdb

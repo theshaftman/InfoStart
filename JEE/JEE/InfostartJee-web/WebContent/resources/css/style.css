@@ -1,0 +1,99 @@
+@CHARSET "UTF-8";
+
+html, body, div, a {
+	margin: 0;
+	padding: 0;
+}
+
+html { 
+  background: url(#{application.contextPath}/images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#bodyStyle {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	padding: 20px;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: rgba(255, 255, 255, 0.4);
+}
+
+.login {
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.register {
+	width: 250px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.title {
+	font-size: 2em;
+}
+
+.moreInfo {
+	text-decoration: underline;
+}
+
+.firstLine {
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.field {
+	float: right;
+}
+
+.errors {
+	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	color: red;
+}
+
+button {
+	width: 250px;
+}
+
+.buttonClass {
+	width: 250px;
+}
+
+.tableScale {
+   width: 1000px;
+   height: 200px;
+   overflow: auto;
+}
+
+.table{   
+   border-collapse:collapse;
+   border:1px solid #000000;
+}
+
+.tableHeader{
+   text-align:center;
+   background:none repeat scroll 0 0 #B5B5B5;
+   border-bottom:1px solid #000000;  
+   padding:2px;
+}
+
+.tableOddRow{
+   text-align:center;
+   background:none repeat scroll 0 0 #FFFFFFF;	
+}
+
+.tableEvenRow{
+   text-align:center;
+   background:none repeat scroll 0 0 #D3D3D3;
+}

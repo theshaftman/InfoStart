@@ -1,0 +1,2 @@
+D:\InfoStart\Homework\Infostart - Programming Basics\3.Homework-Loops-InfoStart\4.DecimalToBinary\bin\Debug\4.DecimalToBinary.exe.config
+D:\InfoStart\1. Programming Basics\Homework\3.Homework-Loops-InfoStart\4.DecimalToBinary\bin\Debug\4.DecimalToBinary.exe.config

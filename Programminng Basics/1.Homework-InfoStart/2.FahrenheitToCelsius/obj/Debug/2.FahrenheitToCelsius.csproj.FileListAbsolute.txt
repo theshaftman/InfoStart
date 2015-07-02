@@ -1,0 +1,8 @@
+C:\Users\Web\Desktop\Tuiiiiiiii\1.Homework-InfoStart\2.FahrenheitToCelsius\bin\Debug\2.FahrenheitToCelsius.exe.config
+C:\Users\Web\Desktop\Tuiiiiiiii\1.Homework-InfoStart\2.FahrenheitToCelsius\bin\Debug\2.FahrenheitToCelsius.exe
+C:\Users\Web\Desktop\Tuiiiiiiii\1.Homework-InfoStart\2.FahrenheitToCelsius\bin\Debug\2.FahrenheitToCelsius.pdb
+C:\Users\Web\Desktop\Tuiiiiiiii\1.Homework-InfoStart\2.FahrenheitToCelsius\obj\Debug\2.FahrenheitToCelsius.exe
+C:\Users\Web\Desktop\Tuiiiiiiii\1.Homework-InfoStart\2.FahrenheitToCelsius\obj\Debug\2.FahrenheitToCelsius.pdb
+D:\InfoStart\Homework\Infostart - Programming Basics\1.Homework-InfoStart\2.FahrenheitToCelsius\bin\Debug\2.FahrenheitToCelsius.exe.config
+D:\InfoStart\Homework\Infostart - Programming Basics\1.Homework-InfoStart\2.FahrenheitToCelsius\obj\Debug\2.FahrenheitToCelsius.exe
+D:\InfoStart\Homework\Infostart - Programming Basics\1.Homework-InfoStart\2.FahrenheitToCelsius\obj\Debug\2.FahrenheitToCelsius.pdb

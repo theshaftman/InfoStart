@@ -1,0 +1,5 @@
+C:\Users\Web\Desktop\4.Homework\2.CompareArrays\bin\Debug\2.CompareArrays.exe.config
+C:\Users\Web\Desktop\4.Homework\2.CompareArrays\obj\Debug\2.CompareArrays.exe
+C:\Users\Web\Desktop\4.Homework\2.CompareArrays\obj\Debug\2.CompareArrays.pdb
+C:\Users\Web\Desktop\4.Homework\2.CompareArrays\bin\Debug\2.CompareArrays.exe
+C:\Users\Web\Desktop\4.Homework\2.CompareArrays\bin\Debug\2.CompareArrays.pdb

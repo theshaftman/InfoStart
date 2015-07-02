@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Dryn</title>
+    <script type="text/javascript" src="likeUnlike.js"></script>
+    <script type="text/javascript" src="numbersField.js"></script>
+    <script type="text/javascript" src="printMouseCoordinates.js"></script>
+    <style type="text/css">
+        .em {
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <p class="em">Task 1:</p>
+    <button onclick="likeUnlike()">Like</button>
+
+    <p class="em">Task 2:</p>
+    <div>first div</div>
+    <div>second div</div>
+    <div class="empty"></div>
+    <div>third div
+        <div>inner div</div>
+    </div>
+    <ul id="result"></ul>
+
+    <script type="text/javascript">
+        var numberOfDivs = document.getElementsByTagName('div');
+        var letters = "";
+
+        for (var i = 0; i < numberOfDivs.length; i++) {
+            if (numberOfDivs[i].textContent !== "") {
+                letters += "<li>" + numberOfDivs[i].textContent + "</li>";
+            }
+        }
+
+        document.getElementById('result').innerHTML = letters;
+    </script>
+
+    <p class="em">Task 3:</p>
+    <table border='1'>
+        <tr><td>row 1</td></tr>
+        <tr><td>row 2</td></tr>
+        <tr><td>row 3</td></tr>
+        <tr><td>row 4</td></tr>
+        <tr><td>row 5</td></tr>
+    </table>
+    <button id="btnHideOddRows">Hide Odd Rows</button>
+    <script type="text/javascript" src="hideOddRows.js"></script>
+
+    <p class="em">Task 4:</p>
+    <form action="#" method="get">
+        <input type="text" id="numberField" name="numberField" oninput="numbersField()">
+        <label for="numberField">Enter a number</label>
+    </form>
+
+    <p class="em">Task 5:</p>
+    <p id="mouseCoordinates"></p>
+</body>
+</html>

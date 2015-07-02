@@ -1,0 +1,6 @@
+C:\Users\Web\Desktop\4.Homework\4.MaximalSequence\bin\Debug\4.MaximalSequence.exe.config
+C:\Users\Web\Desktop\4.Homework\4.MaximalSequence\bin\Debug\4.MaximalSequence.exe
+C:\Users\Web\Desktop\4.Homework\4.MaximalSequence\bin\Debug\4.MaximalSequence.pdb
+C:\Users\Web\Desktop\4.Homework\4.MaximalSequence\obj\Debug\4.MaximalSequence.csprojResolveAssemblyReference.cache
+C:\Users\Web\Desktop\4.Homework\4.MaximalSequence\obj\Debug\4.MaximalSequence.exe
+C:\Users\Web\Desktop\4.Homework\4.MaximalSequence\obj\Debug\4.MaximalSequence.pdb
